@@ -1,4 +1,4 @@
-# Git Assingment - boateb 
+# Git Assignment - boateb 
 
 a. What is an issue?
 An issue is a way to track tasks, enhancements, bugs, or any other type of work in a project on GitHub. Issues can be assigned to team members, labeled, and organized into projects.
